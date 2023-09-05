@@ -1,0 +1,9 @@
+pyperclip
+socket
+datetime
+sys
+hashlib
+tkinter
+
+注意事项：需要有以上的库和python还有Ditto , 火萤酱
+不能移动文件路径，因为有up自己写的库在路径下
